@@ -13,3 +13,9 @@
 
 - [Getting Started](hadoop-3/001.start.md)
 - [Single Node Setup](hadoop-3/002.singlenode.md)
+- [Secure Mode](hadoop-3/003.secure.mode.md)
+
+## Helm
+
+- [hadoop 2.9.0](helm/hadoop-2.9.0.md)
+
